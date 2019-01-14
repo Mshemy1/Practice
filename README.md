@@ -1,3 +1,3 @@
 # Practice
 
-this ia to try what is git 
+this is to try what is git 
